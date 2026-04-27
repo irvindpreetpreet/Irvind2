@@ -1,2 +1,2 @@
 # Irvind2 
-this project is created by irvind and sahil sharma.
+This project is created by Irvind and Sahil Sharma.
